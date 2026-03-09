@@ -43,6 +43,9 @@ This project utilizes the **Medallion Architecture** pattern to progressively re
 * **Semi-Structured Handling:** Native ingestion of JSON KYC and Watchlist data into `VARIANT` columns, later flattened using Snowflake's dot-notation (`kyc_data:status::VARCHAR`).
 * **Multi-Language UDFs:** Complex "Refer/Reject/Approve" logic is handled by JavaScript UDFs natively executing inside Snowflake, allowing for complex `IF/ELSE` routing that SQL handles poorly.
 
+<img width="1600" height="930" alt="image" src="https://github.com/user-attachments/assets/4580fc6c-80eb-4d3a-b578-04cbe24b000b" />
+
+
 ---
 
 ## 🔐 Enterprise Security
@@ -123,5 +126,6 @@ Wake up your pipeline by resuming the tasks:
    ALTER TASK process_customer_master_task RESUME;
    ALTER TASK decision_engine_task RESUME;
    ```
+
 
 _Sit back and watch the data flow from Raw to Curated JSON autonomously!_
