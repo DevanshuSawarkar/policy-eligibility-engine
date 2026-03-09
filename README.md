@@ -38,6 +38,8 @@ This project utilizes the **Medallion Architecture** pattern to progressively re
 | 🥈 **Silver (Validated)**| CDC, Cleansing & Deduplication | `STREAMS` (Delta loads), `MERGE` (Upsert logic), `TRY_TO_DATE()`, Conditional Error Handling (`CASE`). |
 | 🥇 **Gold (Curated)** | Business Logic & JSON Output | `Polyglot UDFs` (SQL & JavaScript), `CROSS JOIN` (Eligibility Matrix), `OBJECT_CONSTRUCT` (JSON generation). |
 
+<img width="1600" height="519" alt="image" src="https://github.com/user-attachments/assets/77bede1f-4af2-4df0-8982-68f8443e477b" />
+
 ### 🛠️ Key Technical Implementations
 * **Automated Ingestion:** Tasks run on a 1-minute schedule, using Regex (`PATTERN = '.*customer_master_.*\\.csv'`) to dynamically sweep internal stages for new files.
 * **Semi-Structured Handling:** Native ingestion of JSON KYC and Watchlist data into `VARIANT` columns, later flattened using Snowflake's dot-notation (`kyc_data:status::VARCHAR`).
@@ -129,3 +131,4 @@ Wake up your pipeline by resuming the tasks:
 
 
 _Sit back and watch the data flow from Raw to Curated JSON autonomously!_
+
