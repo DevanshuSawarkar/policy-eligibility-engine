@@ -132,3 +132,7 @@ Wake up your pipeline by resuming the tasks:
 
 _Sit back and watch the data flow from Raw to Curated JSON autonomously!_
 
+## 🫂 Team Members
+- @DevanshuSawarkar
+- @AtharvaKale1
+- @shreyashD0810
