@@ -1,0 +1,51 @@
+{"customer_id": "CUST1000", "on_watchlist": true, "watch_reason": "SANCTIONS_MATCH", "source": "AML_SYSTEM", "loaded_at": "2026-25-99T99:99:99Z"}
+{"customer_id": "CUST1001", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1002", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id":"BROKEN_LINE","on_watchlist": true, "loaded_at": 2026-02-15T09:00:00Z }
+{"customer_id": "CUST1003", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1004", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1005", "on_watchlist": false, "watch_reason": "", "source": "UNKNOWN_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1006", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1007", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1008", "on_watchlist": false, "watch_reason": "", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1009", "on_watchlist": false, "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1011", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1012", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1013", "on_watchlist": false, "watch_reason": "", "source": "UNKNOWN_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1014", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-25-99T99:99:99Z"}
+{"customer_id": "CUST1015", "on_watchlist": false, "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1016", "on_watchlist": false, "watch_reason": "", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1017", "on_watchlist": true, "watch_reason": "SANCTIONS_MATCH", "source": "MANUAL_REVIEW", "loaded_at": "2026-25-99T99:99:99Z"}
+{"customer_id": "CUST1018", "on_watchlist": false, "watch_reason": "", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1019", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-25-99T99:99:99Z"}
+{"customer_id": "CUST1020", "on_watchlist": "TRUE", "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1022", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1023", "on_watchlist": "TRUE", "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1024", "on_watchlist": false, "watch_reason": "", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1025", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1026", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1027", "on_watchlist": false, "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1028", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1029", "on_watchlist": false, "watch_reason": "", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1030", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1031", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1032", "on_watchlist": "TRUE", "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1033", "on_watchlist": false, "watch_reason": "", "source": "UNKNOWN_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1034", "on_watchlist": true, "watch_reason": "SANCTIONS_MATCH", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1035", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1036", "on_watchlist": false, "watch_reason": "", "source": "UNKNOWN_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1037", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-25-99T99:99:99Z"}
+{"customer_id": "CUST1038", "on_watchlist": "TRUE", "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1039", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1040", "on_watchlist": false, "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1041", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1042", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1043", "on_watchlist": false, "watch_reason": "", "source": "UNKNOWN_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "", "on_watchlist": false, "watch_reason": "", "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1045", "on_watchlist": "TRUE", "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1046", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1047", "on_watchlist": false, "watch_reason": "", "source": "PARTNER_FEED", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1048", "on_watchlist": false, "watch_reason": "", "source": "MANUAL_REVIEW", "loaded_at": "2026-02-15T09:00:00Z"}
+{"customer_id": "CUST1049", "on_watchlist": false, "source": "AML_SYSTEM", "loaded_at": "2026-02-15T09:00:00Z"}

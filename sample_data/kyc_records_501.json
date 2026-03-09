@@ -1,0 +1,51 @@
+{"customer_id": "CUST1000", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-04-11", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-3530"}
+{"customer_id": "CUST1001", "kyc_completed_on": "2024-04-28", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-6999"}
+{"customer_id": "CUST1002", "kyc_level": "MIN", "kyc_completed_on": "2025-09-28", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-4597"}
+{"customer_id": "CUST1003", "kyc_level": "FULL", "kyc_completed_on": "2025-11-11", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-8983"}
+{"customer_id": "CUST1004", "kyc_level": "MIN", "kyc_completed_on": "2024-04-03", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-3645"}
+{"customer_id": "CUST1005", "kyc_level": "FULL", "kyc_completed_on": "2024-09-06", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-6556", "unexpected": "d26fEeVV"}
+{"customer_id": "CUST1006", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-02-15", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-2510"}
+{"customer_id": "CUST1007", "kyc_level": "FULL", "kyc_completed_on": "2026-01-27", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-8514"}
+{"customer_id": "CUST1008", "kyc_level": "PARTIAL", "kyc_completed_on": "2026-01-28", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-6431"}
+{"customer_id": "CUST1009", "kyc_level": "FULL", "kyc_completed_on": "2025-04-19", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-2053"}
+{"customer_id": "CUST1010", "kyc_level": "MIN", "kyc_completed_on": "2023-12-01", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-2716"}
+{"customer_id": "CUST1011", "kyc_completed_on": "2025-05-13", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-3974"}
+{"customer_id": "CUST1012", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-99-99", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-5237"}
+{"customer_id": "CUST1013", "kyc_level": "PARTIAL", "kyc_completed_on": "2024-08-15", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-9103"}
+{"customer_id": "CUST1014", "kyc_level": "FULL", "kyc_completed_on": "2025-11-16", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-1942"}
+{"customer_id": "CUST1015", "kyc_completed_on": "2025-08-12", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-2186"}
+{"customer_id": "CUST1016", "kyc_level": "PARTIAL", "kyc_completed_on": "2026-01-29", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-2451"}
+{"customer_id": "CUST1017", "kyc_level": "FULL", "kyc_completed_on": "2025-11-22", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-4643"}
+{"customer_id": "CUST1018", "kyc_level": 123, "kyc_completed_on": "2023-09-16", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-8434"}
+{"customer_id": "CUST1019", "kyc_level": "MIN", "kyc_completed_on": "2024-07-29", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-5388"}
+{"customer_id": "CUST1020", "kyc_level": "FULL", "kyc_completed_on": "2026-01-02", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-4906"}
+{"customer_id": "CUST1021", "kyc_level": "FULL", "kyc_completed_on": "2025-99-99", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-1825"}
+{"customer_id": "CUST1022", "kyc_level": 123, "kyc_completed_on": "2025-04-02", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-5997"}
+{"customer_id": "CUST1023", "kyc_level": "FULL", "kyc_completed_on": "2025-99-99", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-8302"}
+{"customer_id": "CUST1024", "kyc_level": "FULL", "kyc_completed_on": "2025-08-17", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-6685"}
+{"customer_id": "BROKEN", "kyc_level": FULL,}
+{"customer_id": "CUST1025", "kyc_level": 123, "kyc_completed_on": "2025-06-04", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-1251"}
+{"customer_id": "CUST1026", "kyc_level": "MIN", "kyc_completed_on": "2024-09-16", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-4104"}
+{"customer_id": "CUST1027", "kyc_level": "FULL", "kyc_completed_on": "2025-06-09", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-2741"}
+{"customer_id": "CUST1028", "kyc_level": "FULL", "kyc_completed_on": "2025-99-99", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-9110"}
+{"customer_id": "CUST1029", "kyc_level": "FULL", "kyc_completed_on": "2025-01-09", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-6042"}
+{"customer_id": "CUST1030", "kyc_level": "FULL", "kyc_completed_on": "2025-06-25", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-4254"}
+{"customer_id": "CUST1031", "kyc_level": "FULL", "kyc_completed_on": "2024-02-23", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-3289", "unexpected": "hDIq2AnH"}
+{"customer_id": "CUST1032", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-02-25", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-3126", "unexpected": "Tmt9OBGh"}
+{"customer_id": "CUST1033", "kyc_level": "MIN", "kyc_completed_on": "2024-05-16", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-5187"}
+{"customer_id": "CUST1034", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-12-21", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-7240"}
+{"customer_id": "CUST1035", "kyc_level": "FULL", "kyc_completed_on": "2024-03-31", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-4968"}
+{"customer_id": "CUST1036", "kyc_level": "FULL", "kyc_completed_on": "2025-12-31", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-4036"}
+{"customer_id": "CUST1037", "kyc_level": "MIN", "kyc_completed_on": "2024-11-16", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-5312"}
+{"customer_id": "CUST1038", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-03-16", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-6300"}
+{"customer_id": "CUST1039", "kyc_completed_on": "2025-04-05", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-6842"}
+{"customer_id": "CUST1040", "kyc_level": "MIN", "kyc_completed_on": "2025-03-09", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-2374"}
+{"customer_id": "CUST1041", "kyc_level": "PARTIAL", "kyc_completed_on": "2024-09-19", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-4292"}
+{"customer_id": "CUST1042", "kyc_level": "PARTIAL", "kyc_completed_on": "2023-12-14", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-2488"}
+{"customer_id": "CUST1043", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-11-16", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-7545"}
+{"customer_id": "CUST1044", "kyc_level": "FULL", "kyc_completed_on": "2025-01-08", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-5909"}
+{"customer_id": "CUST1045", "kyc_level": "PARTIAL", "kyc_completed_on": "2025-06-22", "kyc_doc_type": "AADHAAR", "kyc_doc_masked": "XXXX-XXXX-9670"}
+{"customer_id": "CUST1046", "kyc_level": "FULL", "kyc_completed_on": "2025-09-10", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-7381"}
+{"customer_id": "CUST1047", "kyc_level": "FULL", "kyc_completed_on": "2024-02-09", "kyc_doc_type": "PAN", "kyc_doc_masked": "XXXX-XXXX-3448"}
+{"customer_id": "CUST1048", "kyc_level": 123, "kyc_completed_on": "2024-05-23", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-3371"}
+{"customer_id": "CUST1049", "kyc_completed_on": "2023-10-14", "kyc_doc_type": "PASSPORT", "kyc_doc_masked": "XXXX-XXXX-9404"}

@@ -1,0 +1,52 @@
+region_code,city,state,country,risk_flag
+R000,Ahmedabad,Gujarat,IN,HIGH
+R001,Jaipur,Rajasthan,IN,HIGH
+R002,Chennai,Tamil Nadu,IN,LOW
+R003,Hyderabad,Telangana,IN,HIGH
+R004,Jaipur,Rajasthan,IN,CRITICAL
+R005,Jaipur,Rajasthan,IN,HIGH
+R006,Ahmedabad,Gujarat,IN,CRITICAL
+R007,Jaipur,Rajasthan,IN,HIGH
+R008,Hyderabad,Telangana,IN,MED
+R009,Jaipur,Rajasthan,IN,LOW
+R010,Mumbai,Maharashtra,IN,HIGH
+R011,Pune,Maharashtra,IN,MED
+R012,Bengaluru,Karnataka,IN,LOW
+R013,Chennai,Tamil Nadu,IN,MED
+R014,Jaipur,Rajasthan,IN,CRITICAL
+R015,Pune,Maharashtra,IN,HIGH
+R016,Kolkata,West Bengal,,MED
+R017,Ahmedabad,Gujarat,IN,MED
+R018,Nagpur,INVALID_STATE_@@,IN,LOW
+R019,Ahmedabad,Gujarat,IN,LOW
+R020,Chennai,Tamil Nadu,IN,LOW
+R021,Chennai,Tamil Nadu,IN,LOW
+R022,Hyderabad,Telangana,IN,HIGH
+R023,Jaipur,Rajasthan,IN,HIGH
+R024,Nagpur,INVALID_STATE_@@,IN,HIGH
+R025,Bengaluru,Karnataka,IN,MED
+R026,Delhi,INVALID_STATE_@@,IN,HIGH
+R027,Kolkata,West Bengal,IN,LOW
+R000,Mumbai,Maharashtra,IN,HIGH
+R029,Kolkata,West Bengal,IN,MED
+R030,Kolkata,West Bengal,IN,LOW
+R031,Nagpur,INVALID_STATE_@@,IN,LOW
+R032,Kolkata,West Bengal,IN,LOW
+R033,Nagpur,Maharashtra,IN,MED
+R034,Chennai,Tamil Nadu,IN,CRITICAL
+R035,Bengaluru,INVALID_STATE_@@,IN,MED
+R036,Hyderabad,Telangana,IN,LOW
+R037,Pune,Maharashtra,IN,CRITICAL
+R038,Pune,Maharashtra,IN,HIGH
+R039,Chennai,Tamil Nadu,IN,HIGH
+R040,Pune,Maharashtra,IN,LOW
+R041,Hyderabad,Telangana,IN,LOW
+R042,Jaipur,Rajasthan,IN,MED
+R043,Pune,Maharashtra,,HIGH
+R044,Hyderabad,Telangana,IN,LOW
+R045,Chennai,Tamil Nadu,IN,MED
+R046,Kolkata,West Bengal,IN,LOW
+R047,Jaipur,Rajasthan,IN,MED
+R048,Hyderabad,Telangana,,MED
+R049,Nagpur,Maharashtra,IN,HIGH
+,,,,
